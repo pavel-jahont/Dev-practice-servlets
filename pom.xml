@@ -18,7 +18,7 @@
         <junit.version>4.13.1</junit.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <log4j-api.version>2.13.2</log4j-api.version>
-        <mysql-connector-java.version>8.0.18</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <hikari_cp.version>3.4.1</hikari_cp.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <jstl.version>1.2</jstl.version>
